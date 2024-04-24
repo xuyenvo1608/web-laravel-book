@@ -1,0 +1,1 @@
+<h2>Chuỗi in hoa là: {{$ket_qua}}</h2>
